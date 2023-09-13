@@ -67,7 +67,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git&SCM-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git.SCM-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.JS-5865F2?style=for-the-badge&labelColor=white&logo=discord&logoColor=5865F2)
 ![Discord.py](https://img.shields.io/badge/Discord.py-yellow?style=for-the-badge&labelColor=yellow&logo=discord&logoColor=5865F2)
 
