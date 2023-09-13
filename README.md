@@ -14,21 +14,10 @@
         </samp>
 </h3>
 
-<h3 align="center">
-        <samp>&gt; Ah Eai!, Eu sou o
-                <b>Patrik Pereira</b>
-        </samp>
-</h3>
-
 
 <p align="center"> 
   <samp>
     「 I am a new dev on this bad world from <b>Brazil</b> 」
-    <br>
-    <br>
-  </samp>
-    <samp>
-    「 Sou apenas um novo desenvolvedor do <b>Brazil</b> 」
     <br>
     <br>
   </samp>
@@ -93,4 +82,4 @@
 </a>
 
 
-![SrPalha Graph](https://github-readme-activity-graph.vercel.app/graph?username=srpalha&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![SrPalha Graph](https://github-readme-activity-graph.vercel.app/graph?username=srpalha&custom_title=Sr%20Palha%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
