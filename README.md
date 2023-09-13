@@ -38,7 +38,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.png" alt="Coding" />
+ <img align="right" width="340" src="/assets/programmer.png" alt="Coding" />
   
  ✌️ &emsp; Adoro criar coisas novas e compartilhar ideias <br/><br/>
  ❤️ &emsp; Gosto de aprender e desenvolver novas técnicas<br/><br/>
