@@ -14,10 +14,21 @@
         </samp>
 </h3>
 
+<h3 align="center">
+        <samp>&gt; Ah Eai!, Eu sou o
+                <b>Patrik Pereira</b>
+        </samp>
+</h3>
+
 
 <p align="center"> 
   <samp>
     「 I am a new dev on this bad world from <b>Brazil</b> 」
+    <br>
+    <br>
+  </samp>
+    <samp>
+    「 Sou apenas um novo desenvolvedor do <b>Brazil</b> 」
     <br>
     <br>
   </samp>
