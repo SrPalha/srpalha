@@ -7,6 +7,8 @@
 
 [![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&color=red&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20481%26project%3D%26in%3D23587200000)](https://codetime.dev)
 
+[![Komarev badge](https://komarev.com/ghpvc/?username=srpalha)](https://komarev.com)
+
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
