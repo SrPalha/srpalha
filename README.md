@@ -8,7 +8,9 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=SrPalha&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&color=red&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20481%26project%3D%26in%3D23587200000)](https://codetime.dev)
+<p align="center">
+  <a href="https://github.com/SrPalha"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
 
 <!-- Intro  -->
