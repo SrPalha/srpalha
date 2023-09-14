@@ -34,6 +34,9 @@
  <a href="https://instagram.com/palha.exe" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Patrik" />
   </a> 
+  <a href="https://patrik.discloud.app" target="_blank">
+  <img src="https://img.shields.io/badge/Web-fe4164?style=for-the-badge&logo=website&logoColor=white" alt="Patrik" />
+  </a> 
 </p>
 <br />
 
