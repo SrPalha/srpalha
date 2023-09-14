@@ -74,6 +74,7 @@
 ![Git](https://img.shields.io/badge/Git_SCM-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.JS-5865F2?style=for-the-badge&labelColor=white&logo=discord&logoColor=5865F2)
 ![Discord.py](https://img.shields.io/badge/Discord.py-yellow?style=for-the-badge&labelColor=yellow&logo=discord&logoColor=5865F2)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&labelColor=yellow&logo=HTML&logoColor=5865F2)
 
 <br>
 <p align="center">
