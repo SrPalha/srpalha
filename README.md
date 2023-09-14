@@ -20,7 +20,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a new dev on this bad world from <b>Brazil</b> 」
+    「 I am a new dev from <b>Brazil</b> 」
     <br>
     <br>
   </samp>
