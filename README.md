@@ -48,7 +48,7 @@
   
  ✌️ &emsp; Adoro criar coisas novas e compartilhar ideias <br/><br/>
  ❤️ &emsp; Gosto de aprender e desenvolver novas técnicas<br/><br/>
- 📧 &emsp; me mande um email :) patrik@nov9.com.br<br/><br/>
+ 📧 &emsp; Tem algum projeto em mente? patrik@nov9.com.br<br/><br/>
 
 </p>
 
