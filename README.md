@@ -34,7 +34,7 @@
  <a href="https://instagram.com/palha.exe" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Patrik" />
   </a> 
-  <a href="https://patrik.discloud.app" target="_blank">
+  <a href="https://evil9.com.br" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Patrik" />
   </a> 
 </p>
@@ -49,7 +49,7 @@
  ✌️ &emsp; Adoro criar coisas novas e compartilhar ideias <br/><br/>
  🎥 &emsp; Atualmente cursando Desenvolvimento de Sistemas, 2 semestre. <br /><br />
  ❤️ &emsp; Gosto de aprender e desenvolver novas técnicas<br/><br/>
- 📧 &emsp; Tem algum projeto em mente? patrik@nov9.com.br<br/><br/>
+ 📧 &emsp; Tem algum projeto em mente? patrik@evil9.com.br<br/><br/>
 
 </p>
 
