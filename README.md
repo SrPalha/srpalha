@@ -47,7 +47,7 @@
  <img align="right" width="295" src="/assets/programmer.png" alt="Coding" />
   
  ✌️ &emsp; Adoro criar coisas novas e compartilhar ideias <br/><br/>
- 🎥 &emsp; Atualmente cursando Desenvolvimento de Sistemas, 2 semestre. <br /><br />
+ 🎥 &emsp; Atualmente cursando Desenvolvimento de Sistemas, <br /><br />
  ❤️ &emsp; Gosto de aprender e desenvolver novas técnicas<br/><br/>
  📧 &emsp; Tem algum projeto em mente? patrik@evil9.com.br<br/><br/>
 
