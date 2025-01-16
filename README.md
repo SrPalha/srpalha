@@ -57,19 +57,13 @@
 <br/>
 <br/>
 
-## Use To Code
+## Learning
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git_SCM-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.JS-5865F2?style=for-the-badge&labelColor=white&logo=discord&logoColor=5865F2)
 ![Discord.py](https://img.shields.io/badge/Discord.py-yellow?style=for-the-badge&labelColor=yellow&logo=discord&logoColor=5865F2)
-
-
-## Learning
-
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
