@@ -19,6 +19,7 @@
 <p align="center"> 
   <samp>
     「 I am a new dev from <b>Brazil</b> 」
+    Maioria dos meus projetos são privados.
     <br>
     <br>
   </samp>
