@@ -33,7 +33,7 @@
  <a href="https://instagram.com/palha.exe" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Patrik" />
   </a> 
-  <a href="https://evil9.com.br" target="_blank">
+  <a href="https://kodari.co" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Patrik" />
   </a> 
 </p>
